@@ -1,3 +1,8 @@
+CocoaPod supported
+==================
+
+pod 'SFL', :git=>'https://github.com/SeanChenU/SimpleFormatLanguage.git'
+
 Introduction
 ============
 
